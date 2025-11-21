@@ -1,5 +1,5 @@
 # Check-Even-Or-Odd-Number-
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
